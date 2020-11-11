@@ -1,0 +1,8 @@
+master              -> v1, v2, v3,    , actual, final
+                            ⬇             ⬇      ⬆⬆
+experimentos                v1, v2, v3 ➡ ⬇➡➡➡➡ ⬆
+                                          ⬇       ⬆
+Bugfixing                                 v1,     v2
+//hotfixing                                  
+
+Conflictos // Generar un merge que afecte otro merche

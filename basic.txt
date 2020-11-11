@@ -1,0 +1,5 @@
+Hola Mundo, se esta creando un archivo en control de versiones
+
+// git add  guarda
+// git remove --cached borrar el 'add'
+// git commit -m -> el message
