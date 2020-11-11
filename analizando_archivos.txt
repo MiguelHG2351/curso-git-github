@@ -1,1 +1,3 @@
 git show file.[ext]
+
+-> $ git diff <one-commit> <two-commit>
