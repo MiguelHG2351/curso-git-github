@@ -7,3 +7,7 @@ Hola Mundo, se esta creando un archivo en control de versiones
 // Test a git show
 
 // Este archivo es para ver la historia de un archivo
+
+// Ahora vamos a ver como es el bash de git basado en líneas de comandos, VIM
+-> Editor de texto
+# -> son comentarios
