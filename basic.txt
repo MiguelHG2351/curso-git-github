@@ -5,3 +5,5 @@ Hola Mundo, se esta creando un archivo en control de versiones
 // git commit -m -> el message
 
 // Test a git show
+
+// Este archivo es para ver la historia de un archivo
