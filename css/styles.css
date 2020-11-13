@@ -3,3 +3,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #ccc;
 }
+
+.footer {
+    background-color: #0a0883;
+    text-align: left;
+    color: #fff;
+    padding: 12px;
+}
